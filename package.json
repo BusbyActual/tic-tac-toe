@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/BusbyActual/tic-tac-toe/issues"
   },
-  "homepage": "https://github.com/BusbyActual/tic-tac-toe#readme"
+  "homepage": "https://github.com/BusbyActual/tic-tac-toe#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "nodemon": "^1.11.0",
+    "path": "^0.12.7"
+  }
 }
